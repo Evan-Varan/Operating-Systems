@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OperatingSystems",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "mutualExclusion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mutualExclusion-Debug-4ad8641e0ef303587657.json",
+					"name" : "mutualExclusion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "parent::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parent-Debug-b45f257a3e28b6e1d232.json",
+					"name" : "parent",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pre::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pre-Debug-90887a8c2304703ab2c2.json",
+					"name" : "pre",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shhh::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shhh-Debug-c9b9c82a19206b9d7a10.json",
+					"name" : "shhh",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sort-Debug-d98ae1c084ee1d0a5634.json",
+					"name" : "sort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "threads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-threads-Debug-3e27e42d3510123e9fbb.json",
+					"name" : "threads",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/c/Users/Brick/CLionProjects/OperatingSystems/cmake-build-debug",
+		"source" : "/cygdrive/c/Users/Brick/CLionProjects/OperatingSystems"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

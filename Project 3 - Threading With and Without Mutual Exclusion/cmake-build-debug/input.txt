@@ -1,0 +1,8 @@
+Evan 2.0
+Josh 3.0
+John 4.0
+Aaron 3.7
+Burger 2.5
+Burgess 3.1
+Sam 3.6
+
