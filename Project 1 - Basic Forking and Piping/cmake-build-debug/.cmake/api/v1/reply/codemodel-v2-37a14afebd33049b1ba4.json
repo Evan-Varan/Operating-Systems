@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OperatingSystems",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "parent::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parent-Debug-0ad5ae7713a0c005ae1d.json",
+					"name" : "parent",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pipe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pipe-Debug-5f522be6c7cb4fccb2c7.json",
+					"name" : "pipe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pre::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pre-Debug-40f3b7fee2b944abcb6f.json",
+					"name" : "pre",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sort-Debug-bc0fbfabbabfe3d211b4.json",
+					"name" : "sort",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/c/Users/Brick/CLionProjects/OperatingSystems/cmake-build-debug",
+		"source" : "/cygdrive/c/Users/Brick/CLionProjects/OperatingSystems"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

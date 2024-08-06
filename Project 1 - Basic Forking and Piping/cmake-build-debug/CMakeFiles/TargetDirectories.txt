@@ -1,0 +1,6 @@
+/cygdrive/c/Users/Brick/CLionProjects/OperatingSystems/cmake-build-debug/CMakeFiles/pipe.dir
+/cygdrive/c/Users/Brick/CLionProjects/OperatingSystems/cmake-build-debug/CMakeFiles/pre.dir
+/cygdrive/c/Users/Brick/CLionProjects/OperatingSystems/cmake-build-debug/CMakeFiles/sort.dir
+/cygdrive/c/Users/Brick/CLionProjects/OperatingSystems/cmake-build-debug/CMakeFiles/parent.dir
+/cygdrive/c/Users/Brick/CLionProjects/OperatingSystems/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Brick/CLionProjects/OperatingSystems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
