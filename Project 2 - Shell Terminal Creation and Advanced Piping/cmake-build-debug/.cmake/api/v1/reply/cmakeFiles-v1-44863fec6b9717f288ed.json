@@ -1,0 +1,116 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/Platform/CYGWIN-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/Platform/CYGWIN.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/Platform/CYGWIN-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/Platform/CYGWIN-GNU.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/Platform/CYGWIN-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/cygdrive/c/Users/Brick/AppData/Local/JetBrains/CLion2023.3/cygwin_cmake/share/cmake-3.27.8/Modules/CMakeCommonLanguageInclude.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/cygdrive/c/Users/Brick/CLionProjects/OperatingSystems/cmake-build-debug",
+		"source" : "/cygdrive/c/Users/Brick/CLionProjects/OperatingSystems"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
